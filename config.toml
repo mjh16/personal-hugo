@@ -36,7 +36,7 @@ identifier = "compositions"
 url = "/compositions/"
 
 [[menu.main]]
-name = "CV and Academics"
+name = "Academics"
 weight = -105
 identifier = "academics"
 url = "http://michaelhealy.space/academic/"
