@@ -4,7 +4,6 @@ canonifyurls        = true
 contentdir          = "content"
 languageCode        = "en-US"
 layoutdir           = "layouts"
-publishdir          = "docs"
 theme               = "cocoa"
 author              = "Michael Healy"
 title               = "Michael Healy"
@@ -35,6 +34,12 @@ name = "Compositions"
 weight = -110
 identifier = "compositions"
 url = "/compositions/"
+
+[[menu.main]]
+name = "CV and Academics"
+weight = -105
+identifier = "academics"
+url = "http://michaelhealy.space/academic/"
 
 [[menu.main]]
 name = "About Me"
