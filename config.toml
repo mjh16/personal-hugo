@@ -47,7 +47,7 @@ dateFormat = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 subtitle = "Personal blog about adventures in academia, running, and the kitchen"
 logo = "img/runner.png"
-favicon = "img/runner.png"
+favicon = "img/runnerico.png"
 rss = true
 
 #[[Params.bigimg]]
