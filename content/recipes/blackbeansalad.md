@@ -1,11 +1,12 @@
 +++
 title = "Barley, Corn, Black Bean, Kale, and Chipotle Salad"
-description = "An easy, crowdpleaser salad, that is good to share, and packs up well as a lunch."
+description = "An easy, crowd-pleaser salad, that is good to share, and packs up well as a lunch."
 date = "2017-04-12"
 draft = false
 thumbnail = "images/thumbs/img_1006-225x300.jpg"
-tags = ["salad","vegan"]
+tags = ["salad","vegan","potluck"]
 categories = ["recipes"]
+meals = ["lunch","dinner","side-dish","share"]
 +++
 
 I often find myself cooking for myself and the family. One of the largest adjustments over the past year has been my schedule as a graduate student and teaching assistant. This has led to me having odd hours and not being around as often to cook. Out of this I have made a number of recipes that are quick, easy, flavorful, and pack well as leftovers. This is a barley salad that I made to have as a cold option for lunches throughout a school week. It is very flavorful and accidentally vegan. I do not adhere to any specific diet but I do like variety and I like to use fresh ingredients. I will be doing seasonal recipes as well once the farmer's markets and my own garden get going this summer.

@@ -1,27 +1,22 @@
-baseurl             = "http://michaelhealy.space"
-builddrafts         = false
-canonifyurls        = true
+baseurl             = "http://michaelhealy.space/"
+DefaultContentLanguage = "en"
 contentdir          = "content"
 languageCode        = "en-US"
 layoutdir           = "layouts"
-theme               = "cocoa"
+theme               = "beautifulhugo"
 author              = "Michael Healy"
 title               = "Michael Healy"
-pygmentsuseclasses  = true
+pygmentsUseClasses  = true
+pygmentCodeFences = true
 #disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
-pluralizelisttitles = false
 #googleAnalytics     = "UA-123-45"
 
-[permalinks]
-fixed = ":title/"
-blog  = "blog/:slug/"
 
 [[menu.main]]
 name                   = "Blog"
 weight                 = -130
 identifier             = "blog"
 url                    = "/blog/"
-
 
 [[menu.main]]
 name                   = "Recipes"
@@ -48,34 +43,31 @@ identifier = "about"
 url = "/about/"
 
 [params]
-latestpostscount       = 5                             # how many posts to display on the home page
-i18n_flags             = false                         # whether to display small country flags for available translations
-author                 = "Michael Healy"
-cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
-dateform               = "Jan 2, 2006"
-dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
-description            = "Michael Healy's Personal blog about adventures in academia, running, and the kitchen"
-email                  = "mhealy2011@gmail.com"
-extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
-faviconfile            = "img/runner.png"
-github                 = "//github.com/mjh16"
-highlightjs            = true
-lang                   = "en"
+dateFormat = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+subtitle = "Personal blog about adventures in academia, running, and the kitchen"
+logo = "img/runner.png"
+favicon = "img/runner.png"
+rss = true
+
+#[[Params.bigimg]]
+#  src = "img/cover.jpg"
+#  desc = "Lake Bradford"
+
+[Author]
+github = "mjh16"
+Name = "Michael Healy"
+email = "mhealy2011@gmail.com"
+twitter = "mhealy_rhet"
+instagram = "mjhealy"
+posts_navigation = true
 #linkedin               = "//linkedin.com/in/you"
-noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
-selfintro              = "Runner, Rhetoric and Composition Student, Homebrewer, wannabe Bread Baker, Cook, and Sometimes Gamer"                            # appears in the site header when set to a non-empty string
-twitter                = "//twitter.com/mhealy_rhet"
-#mastodon               = "//example.com/@you"
-# highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
-# highlightjsStyle     = "darcula"
-
-avatar                 = "img/IMG_0665.jpg" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
-#gravatar             = "mjhealy2014"                # do not use in the same time as avatar
-
-# The following are DEPRECATED.
-gatracker              = "XYZ" # use googleAnalytics instead
-initials               = "ad"  # displayed on single post page; deprecated in v0.3.0.
+selfintro              = "Runner, Rhetoric and Composition Student, Homebrewer, wannabe Bread Baker, Cook, and Sometimes Gamer"
+avatar                 = "img/IMG_0665.jpg"
 
 [taxonomies]
 genre = "genres"
 series = "series"
+meal = "meals"
+category = "categories"
+tag = "tags"

@@ -1,0 +1,4 @@
++++
+heading = "recipes"
+title = "Recipes"
++++
