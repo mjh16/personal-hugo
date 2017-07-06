@@ -1,11 +1,11 @@
 +++
 author = "michael"
 title = "Chipotle Red Potato Salad"
-description = ""
+description = "A red potato salad made with a chipotles, greek yogurt, and lime juice."
 date = "2017-07-06"
 draft = false
 thumbnail = ""
-tags = ["",""]
+tags = ["salad","pot-luck","potato","spicy","vegitarian"]
 categories = ["recipes"]
 +++
 
@@ -13,18 +13,19 @@ categories = ["recipes"]
 Quantity | Ingredient
 ----|----
 5 lb | Red Potatoes, boiled, cooled, cut into pieces
-1 1/2 Cups | Whole Milk Greek Yogurt
-4 | Canned Chipotles in adobo sauce, finely diced
-2 teaspoons | oregano
-2 teaspoons | cumin
-2 | limes juiced
-1 | Red Onion Sliced Thin
-1 | Green Bell Pepper, Chopped
-1 1/2 Cups | Grape or Cherry Tomatoes, cut in half
-Taste | Salt and Pepper
+1 1/2 cups | Whole milk greek yogurt
+4 | Canned chipotles in adobo sauce, finely diced
+2 teaspoons | Oregano
+2 teaspoons | Cumin
+2 | Limes juiced
+1 | Red onion sliced thin
+1 | Green bell pepper, chopped
+1 1/2 Cups | Grape or cherry tomatoes, cut in half
+To taste | Salt and pepper
 
 
 ## Instructions
-1. Combine lime juice, cumin, oregano, and chipotles in a small bowl. Wisk to combine. Add Greek yogurt and stir until well incorporated.
-2. In a large bowl, combine potatoes, onions, and tomatoes. Stir to combine
-3. Add yogurt mixture to the potatoes, stir until well coated. Chill.
+1. Wisk together lime juice, cumin, oregano, and chipotles in a small bowl. Add Greek yogurt and stir until well incorporated.
+2. In a large bowl, combine potatoes, onions, and tomatoes.
+3. Add yogurt mixture to the potatoes, stir until well coated. Season to taste with salt and pepper.
+4. Chill.

@@ -6,19 +6,10 @@
     <description>Recent content in Tags on Michael Healy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 06 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 May 2017 00:16:23 -0400</lastBuildDate>
     
 	<atom:link href="http://michaelhealy.space/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>http://michaelhealy.space/tags/</link>
-      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://michaelhealy.space/tags/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Blog Migration</title>
@@ -129,6 +120,24 @@
     </item>
     
     <item>
+      <title>Pot Luck</title>
+      <link>http://michaelhealy.space/tags/pot-luck/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelhealy.space/tags/pot-luck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potato</title>
+      <link>http://michaelhealy.space/tags/potato/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelhealy.space/tags/potato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Potluck</title>
       <link>http://michaelhealy.space/tags/potluck/</link>
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
@@ -158,9 +167,18 @@
     <item>
       <title>Salad</title>
       <link>http://michaelhealy.space/tags/salad/</link>
-      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://michaelhealy.space/tags/salad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spicy</title>
+      <link>http://michaelhealy.space/tags/spicy/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelhealy.space/tags/spicy/</guid>
       <description></description>
     </item>
     
@@ -179,6 +197,15 @@
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>http://michaelhealy.space/tags/vegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vegitarian</title>
+      <link>http://michaelhealy.space/tags/vegitarian/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelhealy.space/tags/vegitarian/</guid>
       <description></description>
     </item>
     

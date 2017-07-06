@@ -138,12 +138,6 @@
   </url>
   
   <url>
-    <loc>http://michaelhealy.space/tags/</loc>
-    <lastmod>2017-07-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://michaelhealy.space/series/</loc>
     <lastmod>2017-05-27T20:18:12-04:00</lastmod>
     <priority>0</priority>
@@ -278,6 +272,18 @@
   </url>
   
   <url>
+    <loc>http://michaelhealy.space/tags/pot-luck/</loc>
+    <lastmod>2017-07-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://michaelhealy.space/tags/potato/</loc>
+    <lastmod>2017-07-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://michaelhealy.space/tags/potluck/</loc>
     <lastmod>2017-04-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -308,7 +314,7 @@
   
   <url>
     <loc>http://michaelhealy.space/tags/salad/</loc>
-    <lastmod>2017-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -331,8 +337,14 @@
   </url>
   
   <url>
-    <loc>http://michaelhealy.space/tags/</loc>
+    <loc>http://michaelhealy.space/tags/spicy/</loc>
     <lastmod>2017-07-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://michaelhealy.space/tags/</loc>
+    <lastmod>2017-05-21T00:16:23-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -345,6 +357,12 @@
   <url>
     <loc>http://michaelhealy.space/tags/vegan/</loc>
     <lastmod>2017-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://michaelhealy.space/tags/vegitarian/</loc>
+    <lastmod>2017-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
