@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dinner on Michael Healy</title>
+    <link>http://michaelhealy.space/meals/dinner/</link>
+    <description>Recent content in Dinner on Michael Healy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 12 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://michaelhealy.space/meals/dinner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Barley, Corn, Black Bean, Kale, and Chipotle Salad</title>
+      <link>http://michaelhealy.space/recipes/blackbeansalad/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelhealy.space/recipes/blackbeansalad/</guid>
+      <description>I often find myself cooking for myself and the family. One of the largest adjustments over the past year has been my schedule as a graduate student and teaching assistant. This has led to me having odd hours and not being around as often to cook. Out of this I have made a number of recipes that are quick, easy, flavorful, and pack well as leftovers. This is a barley salad that I made to have as a cold option for lunches throughout a school week.</description>
+    </item>
+    
+  </channel>
+</rss>

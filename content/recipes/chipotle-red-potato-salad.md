@@ -2,8 +2,8 @@
 author = "michael"
 title = "Chipotle Red Potato Salad"
 description = ""
-date = "2017-04-12"
-draft = true
+date = "2017-07-06"
+draft = false
 thumbnail = ""
 tags = ["",""]
 categories = ["recipes"]
@@ -28,4 +28,3 @@ Taste | Salt and Pepper
 1. Combine lime juice, cumin, oregano, and chipotles in a small bowl. Wisk to combine. Add Greek yogurt and stir until well incorporated.
 2. In a large bowl, combine potatoes, onions, and tomatoes. Stir to combine
 3. Add yogurt mixture to the potatoes, stir until well coated. Chill.
-4. Heat

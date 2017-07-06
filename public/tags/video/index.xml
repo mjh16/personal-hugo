@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video on Michael Healy</title>
+    <link>http://michaelhealy.space/tags/video/</link>
+    <description>Recent content in Video on Michael Healy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 27 May 2017 20:18:12 -0400</lastBuildDate>
+    
+	<atom:link href="http://michaelhealy.space/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why I run</title>
+      <link>http://michaelhealy.space/compositions/why-i-run/</link>
+      <pubDate>Sat, 27 May 2017 20:18:12 -0400</pubDate>
+      
+      <guid>http://michaelhealy.space/compositions/why-i-run/</guid>
+      <description>This is a video essay that explores the reasons why I run and specifically why I really enjoy trail running. This was done as a part of the requirements for a CNF in digital environments class, but I quite like the outcome and want to continue working with it.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

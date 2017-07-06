@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compositions on Michael Healy</title>
+    <link>http://michaelhealy.space/compositions/</link>
+    <description>Recent content in Compositions on Michael Healy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="http://michaelhealy.space/compositions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Video Essay</title>
+      <link>http://michaelhealy.space/compositions/video-essay/</link>
+      <pubDate>Sat, 27 May 2017 20:18:12 -0400</pubDate>
+      
+      <guid>http://michaelhealy.space/compositions/video-essay/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
