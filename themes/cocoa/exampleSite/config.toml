@@ -14,7 +14,6 @@ pluralizelisttitles = false
 googleAnalytics     = "UA-123-45"
 
 [permalinks]
-fixed = ":title/"
 blog  = "blog/:slug/"
 
 [[menu.main]]
@@ -48,6 +47,7 @@ extracssfiles          = [ "/css/override.css" ]       # In your `static` direct
 faviconfile            = "img/leaf.ico"
 github                 = "//github.com/you"
 highlightjs            = true
+instagram              = "//instagram.com/you"
 lang                   = "en"
 linkedin               = "//linkedin.com/in/you"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
@@ -56,6 +56,10 @@ twitter                = "//twitter.com/you"
 mastodon               = "//example.com/@you"
 # highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
 # highlightjsStyle     = "darcula"
+
+piwik				   = false                         # If true, Piwik integration is enabled
+# piwik_url            = "//www.example.com/piwik/"    # URL to your Piwik installation. Must End with a slash
+# piwik_id			   = 2                             # Id of your site in Piwik
 
 avatar                 = "img/profile.png" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
 # gravatar             = ""                # do not use in the same time as avatar
